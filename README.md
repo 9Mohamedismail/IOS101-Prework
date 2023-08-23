@@ -16,7 +16,7 @@ The following **required** functionality is completed (**IOS101-Prework** is an 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/99lMgli.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/99lMgli.gif
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
